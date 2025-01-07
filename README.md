@@ -34,6 +34,11 @@ Welcome to my AdonisJS learning project! This project uses various technologies 
    node ace serve --watch
    ```
 
+5. Run the migrations:
+   ```sh
+   node ace migration:run
+   ```
+
 ## Endpoints
 
 ### Moments
@@ -133,6 +138,11 @@ Bem-vindo ao meu projeto para aprendizado do AdonisJS! Este projeto utiliza dive
 4. Inicie o servidor:
    ```sh
    node ace serve --watch
+   ```
+
+5. Rode as migrations:
+   ```sh
+   node ace migration:run
    ```
 
 ## Endpoints
